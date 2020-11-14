@@ -1,4 +1,13 @@
-### Hi there 👋
+# Akihiro Saiki
+Create Movies & some applications
+
+[![Nanamiiiii's github stats](https://github-readme-stats.vercel.app/api?username=Nanamiiiii&count_private=true&show_icons=true&theme=buefy)](https://github.com/Nanamiiiii)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanamiiiii&count_private=true&show_icons=true&theme=buefy&layout=compact)](https://github.com/Nanamiiiii)
+
+### Social
+* [Twitter](https://twitter.com/Nanamii_i)
+* [Gmail](misly.lx00@gmail.com)
+* [Vimeo](https://vimeo.com/user108826812)
 
 <!--
 **Nanamiiiii/Nanamiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
