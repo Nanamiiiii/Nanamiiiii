@@ -6,7 +6,7 @@ Create Movies & some applications
 
 ### Social
 * [Twitter](https://twitter.com/Nanamii_i)
-* [Gmail](misly.lx00@gmail.com)
+* [Gmail](mailto:misly.lx00@gmail.com)
 * [Vimeo](https://vimeo.com/user108826812)
 
 <!--
