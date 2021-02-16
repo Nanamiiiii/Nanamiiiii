@@ -1,8 +1,8 @@
 # Akihiro Saiki
 Create Movies & some applications
 
-[![Nanamiiiii's github stats](https://github-readme-stats.vercel.app/api?username=Nanamiiiii&count_private=true&show_icons=true&theme=buefy)](https://github.com/Nanamiiiii)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanamiiiii&count_private=true&show_icons=true&theme=buefy&layout=compact)](https://github.com/Nanamiiiii)
+[![Nanamiiiii's github stats](https://github-readme-stats.vercel.app/api?username=Nanamiiiii&count_private=true&show_icons=true&theme=react)](https://github.com/Nanamiiiii)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanamiiiii&count_private=true&langs_count=8&show_icons=true&theme=react&layout=compact)](https://github.com/Nanamiiiii)
 
 ### Social
 * [Twitter](https://twitter.com/Nanamii_i)
