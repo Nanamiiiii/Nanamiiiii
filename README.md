@@ -5,7 +5,6 @@ Create Movies & some applications
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanamiiiii&count_private=true&langs_count=8&show_icons=true&theme=react&layout=compact)](https://github.com/Nanamiiiii)
 
 ### Social
-* [Twitter](https://twitter.com/Nanamii_i)
 * [Gmail](mailto:misly.lx00@gmail.com)
 * [Vimeo](https://vimeo.com/user108826812)
 
