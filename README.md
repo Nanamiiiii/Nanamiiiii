@@ -7,7 +7,7 @@ Create Movies & some applications
 ### Social
 * [Twitter](https://twitter.com/Nanamii_i)
 * [Gmail](mailto:misly.lx00@gmail.com)
-* [tmblur](https://nanami-ii.tumblr.com)
+* [Tumblr](https://nanami-ii.tumblr.com)
 
 <!--
 **Nanamiiiii/Nanamiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
