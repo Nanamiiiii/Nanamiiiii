@@ -9,6 +9,7 @@ Create Movies & some applications
 [![IDE:VisualStudio](https://img.shields.io/badge/IDE-VisualStudio2019-blue?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/)
 [![Lang:Ruby](https://img.shields.io/badge/Lang-Ruby-red?style=flat-square&logo=ruby)](https://github.com/ruby/ruby)
 [![Lang:C++](https://img.shields.io/badge/Lang-C++-f7598d?style=flat-square&logo=cplusplus)]()
+[![Lang:Rust](https://img.shields.io/badge/Lang-Rust-cd853f?style=flat-square&logo=rust)]()
 
 [![Nanamiiiii's github stats](https://github-readme-stats.vercel.app/api?username=Nanamiiiii&count_private=true&show_icons=true&theme=react)](https://github.com/Nanamiiiii)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanamiiiii&count_private=true&langs_count=8&show_icons=true&theme=react&layout=compact)](https://github.com/Nanamiiiii)
