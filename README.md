@@ -1,12 +1,11 @@
 # Nanamiiiii
 Create Movies & some applications
 
-[![OS:Manjaro](https://img.shields.io/badge/OS-Manjaro-32ad32?style=flat-square&logo=manjaro)](https://manjaro.org)
 [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-[![OS:Windows](https://img.shields.io/badge/OS-Windows10-1e90ff?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/windows)
+[![OS:Windows](https://img.shields.io/badge/OS-Windows11-1e90ff?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/windows)
 [![Editor:Vim](https://img.shields.io/badge/Editor-Vim-089642?style=flat-square&logo=vim)](https://github.com/vim/vim)
 [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![IDE:VisualStudio](https://img.shields.io/badge/IDE-VisualStudio2019-blue?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/)
+[![IDE:VisualStudio](https://img.shields.io/badge/IDE-VisualStudio2022-blue?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/)
 [![Lang:Ruby](https://img.shields.io/badge/Lang-Ruby-red?style=flat-square&logo=ruby)](https://github.com/ruby/ruby)
 [![Lang:C++](https://img.shields.io/badge/Lang-C++-f7598d?style=flat-square&logo=cplusplus)]()
 [![Lang:Rust](https://img.shields.io/badge/Lang-Rust-cd853f?style=flat-square&logo=rust)]()
