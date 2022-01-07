@@ -10,8 +10,8 @@ Create Movies & some applications
 [![Lang:C++](https://img.shields.io/badge/Lang-C++-f7598d?style=flat-square&logo=cplusplus)]()
 [![Lang:Rust](https://img.shields.io/badge/Lang-Rust-cd853f?style=flat-square&logo=rust)]()
 
-[![Nanamiiiii's github stats](https://github-readme-stats.vercel.app/api?username=Nanamiiiii&count_private=true&show_icons=true&theme=react)](https://github.com/Nanamiiiii)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanamiiiii&count_private=true&langs_count=8&show_icons=true&theme=react&layout=compact)](https://github.com/Nanamiiiii)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanamiiiii&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanamiiiii&theme=nord_dark)
 
 ### Social
 * [Twitter](https://twitter.com/Nanamii_i)
