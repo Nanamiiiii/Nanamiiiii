@@ -19,31 +19,89 @@ Create Movies & some applications
   
 </div>
 
-<details>
-  <summary><strong>My PC's</strong></summary>
-  <details>
-    <summary><strong>Main Machine</strong></summary>
-  </details>
+<div align="center">
   
-  <details>
-    <summary><strong>Laptop</strong></summary>
-  </details>
-  
-  <details>
-    <summary><strong>For Work (loaned)</strong></summary>
-  </details>
-  
-  <details>
-    <summary><strong>File Server (Nextcloud)</strong></summary>
-  </details>
-</details>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanamiiiii&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanamiiiii&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanamiiiii&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanamiiiii&theme=github_dark)
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanamiiiii&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanamiiiii&theme=github_dark)
+---
 
 ### Social
 * [Twitter](https://twitter.com/Nanamii_i)
 * [Gmail](mailto:misly.lx00@gmail.com)
 * [Tumblr](https://nanami-ii.tumblr.com)
+
+---
+
+<details>
+  <summary><strong>My PCs' info</strong></summary>
+  
+  <br>
+  
+  <details>
+    <summary><strong>Main Machine</strong></summary>
+    <ul>
+      <li>OS: Manjaro Linux (KDE) / Windows10 Pro / ArchLinux (WSL2)</li>
+      <li>MB: ASUS ROG STRIX Z390-F</li>
+      <li>CPU: Intel Core i7-9700K 8C/8T (All Core 4.70GHz OC)</li>
+      <li>RAM: Corsair Vengence DDR4-2666 16GB × 4</li>
+      <li>GPU
+        <ul>
+          <li><s>ASUS DUAL-RTX2060-O6G-EVO (NVIDIA GeForce RTX2060 6G)</s></li>
+          <li>MSI GeForce RTX™ 3070 Ti SUPRIM X 8G (NVIDIA GeForce RTX3070 Ti 8G)</li>
+        </ul>
+      </li>
+      <li>Storage
+        <ul>
+          <li>Samsung SSD 970 EVO Plus 500GB (NVMe)(Win10)</li>
+          <li>Samsung SSD 980 1TB (NVMe)</li>
+          <li>Samsung SSD 860 EVO 500GB (SATA600)(Manjaro)</li>
+          <li>Crucial SSD MX300 525GB (SATA600)</li>
+          <li>WesternDigital WD1003FZEX (1TB 7200rpm)(SATA600)</li>
+          <li>WesternDigital WD40EZAZ (4TB 5400rpm)(SATA600)</li>
+        </ul>
+      </li>
+      <li>Cooling: NZXT KRAKEN X63 White</li>
+      <li>PSU: Corsair RM750x White</li>
+      <li>Case: NZXT H500i White</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><strong>Laptop</strong></summary>
+    <ul>
+      <li>Type: MSI P65-8RE-015JP</li>
+      <li>OS: ArchLinux (i3wm) / Windows11 / ArchLinux (WSL2)</li>
+      <li>CPU: Intel Core i7-8750H 6C/12T (Boost 4.10GHz)</li>
+      <li>RAM: DDR4-2666 16GB</li>
+      <li>GPU: NVIDIA GeForce GTX1060 Max-Q</li>
+      <li>SSD: WesternDigital NVMe SSD 500GB</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><strong>For Work (loaned)</strong></summary>
+    <ul>
+      <li>Type: MacBook Pro (2019)</li>
+      <li>CPU: Intel Core i7-9750H 6C/12T (Boost 4.50GHz)</li>
+      <li>RAM: DDR4-2666 16GB</li>
+      <li>GPU: AMD Radeon Pro 5300M</li>
+      <li>SSD: 512GB</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><strong>File Server (Nextcloud)</strong></summary>
+    <ul>
+      <li>Type: Raspberry Pi 4 Model-B 8GB</li>
+      <li>OS: Ubuntu Server 20.04 (Focal)</li>
+      <li>MMC: 128GB</li>
+      <li>File Storage: Crucial SSD P2 500GB (NVMe -> USB3.0)</li>
+    </ul>
+  </details>
+</details>
+
+---
