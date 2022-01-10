@@ -66,7 +66,7 @@ Create Movies & some applications
       </li>
       <li>Cooling: NZXT KRAKEN X63 White</li>
       <li>PSU: Corsair RM750x White</li>
-      <li>Case: NZXT H500i White</li>
+      <li>Case: NZXT H710i White</li>
     </ul>
   </details>
   
