@@ -44,13 +44,12 @@ Create Movies & some applications
   <details>
     <summary><strong>Main Machine</strong></summary>
     <ul>
-      <li>OS: Manjaro Linux (KDE) / Windows10 Pro / ArchLinux (WSL2)</li>
+      <li>OS: Manjaro Linux (KDE) / Windows10 Pro</li>
       <li>MB: ASUS ROG STRIX Z390-F</li>
       <li>CPU: Intel Core i7-9700K 8C/8T (All Core 4.70GHz OC)</li>
       <li>RAM: Corsair Vengence DDR4-2666 16GB × 4</li>
       <li>GPU
         <ul>
-          <li><s>ASUS DUAL-RTX2060-O6G-EVO (NVIDIA GeForce RTX2060 6G)</s></li>
           <li>MSI GeForce RTX™ 3070 Ti SUPRIM X 8G (NVIDIA GeForce RTX3070 Ti 8G)</li>
         </ul>
       </li>
@@ -74,11 +73,11 @@ Create Movies & some applications
     <summary><strong>Laptop</strong></summary>
     <ul>
       <li>Type: MSI P65-8RE-015JP</li>
-      <li>OS: ArchLinux (i3wm) / Windows11 / ArchLinux (WSL2)</li>
+      <li>OS: ArchLinux (i3wm / KDE) / Windows11 Home / ArchLinux (WSL2)</li>
       <li>CPU: Intel Core i7-8750H 6C/12T (Boost 4.10GHz)</li>
       <li>RAM: DDR4-2666 16GB</li>
       <li>GPU: NVIDIA GeForce GTX1060 Max-Q</li>
-      <li>SSD: WesternDigital NVMe SSD 500GB</li>
+      <li>SSD: WesternDigital SN500 500GB</li>
     </ul>
   </details>
   
