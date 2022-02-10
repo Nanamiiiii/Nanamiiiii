@@ -93,6 +93,18 @@ Create Movies & some applications
   </details>
   
   <details>
+    <summary><strong>Main Server</strong></summary>
+    <ul>
+      <li>Type: CHUWI CoreBox</li>
+      <li>OS: Ubuntu Server 20.04 (x86_64)</li>
+      <li>CPU: Intel Core i5-8259U</li>
+      <li>RAM: DDR4 16GB</li>
+      <li>GPU: Intel Iris Plus Graphics 655</li>
+      <li>SSD: 512GB</li>
+    </ul>
+  </details>
+  
+  <details>
     <summary><strong>File Server (Nextcloud)</strong></summary>
     <ul>
       <li>Type: Raspberry Pi 4 Model-B 8GB</li>
