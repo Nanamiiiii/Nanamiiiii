@@ -44,7 +44,7 @@ Create Movies & some applications
   <details>
     <summary><strong>Main Machine</strong></summary>
     <ul>
-      <li>OS: Manjaro Linux (KDE) / Windows10 Pro</li>
+      <li>OS: Arch Linux (KDE) / Windows10 Pro</li>
       <li>MB: ASUS ROG STRIX Z390-F</li>
       <li>CPU: Intel Core i7-9700K 8C/8T (All Core 4.70GHz OC)</li>
       <li>RAM: Corsair Vengence DDR4-2666 16GB × 4</li>
@@ -73,7 +73,7 @@ Create Movies & some applications
     <summary><strong>Laptop</strong></summary>
     <ul>
       <li>Type: MSI P65-8RE-015JP</li>
-      <li>OS: ArchLinux (i3wm / KDE) / Windows11 Home / ArchLinux (WSL2)</li>
+      <li>OS: Ubuntu Focal (KDE) / Windows11 Pro / ArchLinux (WSL2)</li>
       <li>CPU: Intel Core i7-8750H 6C/12T (Boost 4.10GHz)</li>
       <li>RAM: DDR4-2666 16GB</li>
       <li>GPU: NVIDIA GeForce GTX1060 Max-Q</li>
@@ -85,6 +85,7 @@ Create Movies & some applications
     <summary><strong>For Work (loaned)</strong></summary>
     <ul>
       <li>Type: MacBook Pro (2019)</li>
+      <li>OS: macOS BigSur</li>
       <li>CPU: Intel Core i7-9750H 6C/12T (Boost 4.50GHz)</li>
       <li>RAM: DDR4-2666 16GB</li>
       <li>GPU: AMD Radeon Pro 5300M</li>
@@ -108,7 +109,7 @@ Create Movies & some applications
     <summary><strong>File Server (Nextcloud)</strong></summary>
     <ul>
       <li>Type: Raspberry Pi 4 Model-B 8GB</li>
-      <li>OS: Ubuntu Server 20.04 (Focal)</li>
+      <li>OS: Ubuntu Server 20.04 (ARM64)</li>
       <li>MMC: 128GB</li>
       <li>File Storage: Crucial SSD P2 500GB (NVMe -> USB3.0)</li>
     </ul>
