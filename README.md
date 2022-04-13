@@ -22,8 +22,11 @@ Create Movies & some applications
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanamiiiii&theme=github_dark)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanamiiiii&theme=github_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanamiiiii&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nanamiiiii&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanamiiiii&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nanamiiiii&theme=github_dark&utcOffset=8)
+  
 </div>
 
 ---
@@ -72,7 +75,7 @@ Create Movies & some applications
     <summary><strong>Laptop</strong></summary>
     <ul>
       <li>Type: MSI P65-8RE-015JP</li>
-      <li>OS: Ubuntu Focal (KDE) / Windows11 Pro / ArchLinux (WSL2)</li>
+      <li>OS: Ubuntu 21.10 (KDE) / Windows11 Pro / ArchLinux (WSL2)</li>
       <li>CPU: Intel Core i7-8750H 6C/12T (Boost 4.10GHz)</li>
       <li>RAM: DDR4-2666 16GB</li>
       <li>GPU: NVIDIA GeForce GTX1060 Max-Q</li>
