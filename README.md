@@ -6,7 +6,6 @@ Create Movies & some applications
   [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-1e90ff?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/windows)
   [![OS:Windows10](https://img.shields.io/badge/OS-Windows10-1e90ff?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/windows)
-  [![OS:macOS](https://img.shields.io/badge/OS-macOS-a4a8ab?style=flat-square&logo=apple)](https://www.apple.com/jp/macos/monterey/)
 
   [![Editor:Vim](https://img.shields.io/badge/Editor-Vim-089642?style=flat-square&logo=vim)](https://github.com/vim/vim)
   [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
