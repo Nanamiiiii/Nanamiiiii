@@ -7,11 +7,11 @@ Create Movies & some applications
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-1e90ff?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/windows)
   [![OS:Windows10](https://img.shields.io/badge/OS-Windows10-1e90ff?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/windows)
 
-  [![Editor:Vim](https://img.shields.io/badge/Editor-Vim-089642?style=flat-square&logo=vim)](https://github.com/vim/vim)
+  [![Editor:Neovim](https://img.shields.io/badge/Editor-Neovim-089642?style=flat-square&logo=neovim)](https://github.com/neovim/neovim)
   [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
   [![IDE:VisualStudio](https://img.shields.io/badge/IDE-VisualStudio2022-blue?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/)
   
-  [![Lang:Ruby](https://img.shields.io/badge/Lang-Ruby-red?style=flat-square&logo=ruby)](https://github.com/ruby/ruby)
+  [![Lang:Ruby](https://img.shields.io/badge/Lang-Ruby-red?style=flat-square&logo=ruby)]()
   [![Lang:C++](https://img.shields.io/badge/Lang-C++-f7598d?style=flat-square&logo=cplusplus)]()
   [![Lang:C](https://img.shields.io/badge/Lang-C-9db7c4?style=flat-square&logo=c)]()
   [![Lang:Rust](https://img.shields.io/badge/Lang-Rust-cd853f?style=flat-square&logo=rust)]()
@@ -110,7 +110,7 @@ Create Movies & some applications
     <summary><strong>For Work (loaned)</strong></summary>
     <ul>
       <li>Type: MacBook Pro (2019)</li>
-      <li>OS: macOS BigSur</li>
+      <li>OS: macOS Monterey</li>
       <li>CPU: Intel Core i7-9750H 6C/12T (Boost 4.50GHz)</li>
       <li>RAM: DDR4-2666 16GB</li>
       <li>GPU: AMD Radeon Pro 5300M</li>
