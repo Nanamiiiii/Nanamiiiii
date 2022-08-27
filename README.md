@@ -46,7 +46,7 @@ Create Movies & some applications
   <details>
     <summary><strong>Windows Machine</strong></summary>
     <ul>
-      <li>OS: Windows 11 Pro</li>
+      <li>OS: Windows 11 Pro / ArchLinux (WSL)</li>
       <li>MB: MSI MPG Z690 FORCE WIFI</li>
       <li>CPU: Intel Core i7-12700K 12C/20T</li>
       <li>RAM: Corsair Vengence DDR5-5200 White 32GB × 2</li>
@@ -72,7 +72,7 @@ Create Movies & some applications
   <details>
     <summary><strong>Linux Machine</strong></summary>
     <ul>
-      <li>OS: Arch Linux (KDE)</li>
+      <li>OS: ArchLinux (KDE)</li>
       <li>MB: ASUS ROG STRIX Z390-F</li>
       <li>CPU: Intel Core i7-9700K 8C/8T</li>
       <li>RAM: Corsair Vengence DDR4-2666 16GB × 4</li>
@@ -98,7 +98,7 @@ Create Movies & some applications
     <summary><strong>Laptop</strong></summary>
     <ul>
       <li>Type: MSI P65-8RE-015JP</li>
-      <li>OS: Ubuntu 21.10 (KDE) / Windows11 Pro / ArchLinux (WSL2)</li>
+      <li>OS: Ubuntu 22.04 (KDE) / Windows 11 Pro / ArchLinux (WSL2)</li>
       <li>CPU: Intel Core i7-8750H 6C/12T (Boost 4.10GHz)</li>
       <li>RAM: DDR4-2666 16GB</li>
       <li>GPU: NVIDIA GeForce GTX1060 Max-Q</li>
