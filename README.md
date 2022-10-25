@@ -5,7 +5,6 @@ Create Movies & some applications
   
   [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-1e90ff?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/windows)
-  [![OS:Windows10](https://img.shields.io/badge/OS-Windows10-1e90ff?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/windows)
 
   [![Editor:Neovim](https://img.shields.io/badge/Editor-Neovim-089642?style=flat-square&logo=neovim)](https://github.com/neovim/neovim)
   [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
@@ -83,7 +82,7 @@ Create Movies & some applications
       </li>
       <li>Storage
         <ul>
-          <li>Samsung SSD 860 EVO 500GB (SATA600, BOOT)</li>
+          <li>Crucial SSD P2 500GB (NVMe, BOOT)</li>
           <li>KINGSTON SSD Q500 480GB (SATA600)</li>
           <li>WesternDigital WD1003FZEX (1TB 7200rpm)(SATA600)</li>
         </ul>
@@ -119,24 +118,38 @@ Create Movies & some applications
   </details>
   
   <details>
-    <summary><strong>Main Server</strong></summary>
+    <summary><strong>Home Kubernetes Cluster</strong></summary>
     <ul>
-      <li>Type: CHUWI CoreBox</li>
-      <li>OS: Ubuntu Server 20.04 (x86_64)</li>
-      <li>CPU: Intel Core i5-8259U</li>
-      <li>RAM: DDR4 16GB</li>
-      <li>GPU: Intel Iris Plus Graphics 655</li>
-      <li>SSD: 512GB</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary><strong>File Server (Nextcloud)</strong></summary>
-    <ul>
-      <li>Type: Raspberry Pi 4 Model-B 8GB</li>
-      <li>OS: Ubuntu Server 20.04 (ARM64)</li>
-      <li>MMC: 128GB</li>
-      <li>File Storage: Crucial SSD P2 500GB (NVMe -> USB3.0)</li>
+      <li>
+        <strong>Control Plane</strong>
+        <ul>
+          <li>Type: Raspberry Pi 4 Model-B 8GB</li>
+          <li>OS: Ubuntu Server 22.04 (ARM64)</li>
+          <li>MMC: 128GB</li>
+          <li>File Storage: Crucial SSD P2 500GB (NVMe -> USB3.0)</li>
+        </ul>
+       </li>
+       <li>
+        <strong>Worker (2 Nodes on KVM)</strong>
+        <ul>
+          <li>Type: CHUWI CoreBox</li>
+          <li>OS: RedHat Enterprise Linux 9.0 (x86_64)</li>
+          <li>CPU: Intel Core i5-8259U</li>
+          <li>RAM: DDR4 16GB</li>
+          <li>GPU: Intel Iris Plus Graphics 655</li>
+          <li>Storage
+            <ul>
+              <li>NVMe 512GB</li>
+              <li>Samsung SSD 860 EVO 500GB (SATA600)</li>
+            </ul>
+          </li>
+          <li>KVM Instance
+            <ul>
+              <li>OS: Ubuntu Server 22.04</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
     </ul>
   </details>
 </details>
