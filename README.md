@@ -11,9 +11,9 @@ Create Movies & some applications
   [![IDE:VisualStudio](https://img.shields.io/badge/IDE-VisualStudio2022-blue?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/)
   
   [![Lang:Ruby](https://img.shields.io/badge/Lang-Ruby-red?style=flat-square&logo=ruby)]()
-  [![Lang:C++](https://img.shields.io/badge/Lang-C++-f7598d?style=flat-square&logo=cplusplus)]()
   [![Lang:C](https://img.shields.io/badge/Lang-C-9db7c4?style=flat-square&logo=c)]()
   [![Lang:Rust](https://img.shields.io/badge/Lang-Rust-cd853f?style=flat-square&logo=rust)]()
+  [![Lang:Go](https://img.shields.io/badge/Lang-Go-blue?style=flat-square&logo=go)]()
   
 </div>
 
