@@ -19,12 +19,12 @@ Create Movies & some applications
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanamiiiii&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanamiiiii&theme=nord_dark)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanamiiiii&theme=github_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nanamiiiii&theme=github_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanamiiiii&theme=github_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nanamiiiii&theme=github_dark&utcOffset=9)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanamiiiii&theme=nord_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nanamiiiii&theme=nord_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanamiiiii&theme=nord_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nanamiiiii&theme=nord_dark&utcOffset=9)
   
 </div>
 
@@ -71,7 +71,7 @@ Create Movies & some applications
   <details>
     <summary><strong>Linux Machine</strong></summary>
     <ul>
-      <li>OS: ArchLinux (KDE)</li>
+      <li>OS: ArchLinux (Sway)</li>
       <li>MB: ASUS ROG STRIX Z390-F</li>
       <li>CPU: Intel Core i7-9700K 8C/8T</li>
       <li>RAM: Corsair Vengence DDR4-2666 16GB × 4</li>
@@ -97,7 +97,7 @@ Create Movies & some applications
     <summary><strong>Laptop</strong></summary>
     <ul>
       <li>Type: MSI P65-8RE-015JP</li>
-      <li>OS: Ubuntu 22.04 (KDE) / Windows 11 Pro / ArchLinux (WSL2)</li>
+      <li>OS: Fedora Workstation 37 (Sway) / Windows 11 Pro / ArchLinux (WSL2)</li>
       <li>CPU: Intel Core i7-8750H 6C/12T (Boost 4.10GHz)</li>
       <li>RAM: DDR4-2666 16GB</li>
       <li>GPU: NVIDIA GeForce GTX1060 Max-Q</li>
