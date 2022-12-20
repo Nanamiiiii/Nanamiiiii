@@ -9,11 +9,11 @@ Create Movies & some applications
   [![Editor:Neovim](https://img.shields.io/badge/Editor-Neovim-089642?style=flat-square&logo=neovim)](https://github.com/neovim/neovim)
   [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
   [![IDE:VisualStudio](https://img.shields.io/badge/IDE-VisualStudio2022-blue?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/)
-  
-  [![Lang:Ruby](https://img.shields.io/badge/Lang-Ruby-red?style=flat-square&logo=ruby)]()
+ 
   [![Lang:C](https://img.shields.io/badge/Lang-C-9db7c4?style=flat-square&logo=c)]()
   [![Lang:Rust](https://img.shields.io/badge/Lang-Rust-cd853f?style=flat-square&logo=rust)]()
   [![Lang:Go](https://img.shields.io/badge/Lang-Go-blue?style=flat-square&logo=go)]()
+  [![Lang:Ruby](https://img.shields.io/badge/Lang-Ruby-red?style=flat-square&logo=ruby)]()
   
 </div>
 
@@ -71,13 +71,13 @@ Create Movies & some applications
   <details>
     <summary><strong>Linux Machine</strong></summary>
     <ul>
-      <li>OS: ArchLinux (Sway)</li>
+      <li>OS: ArchLinux (SwayWM)</li>
       <li>MB: ASUS ROG STRIX Z390-F</li>
       <li>CPU: Intel Core i7-9700K 8C/8T</li>
       <li>RAM: Corsair Vengence DDR4-2666 16GB × 4</li>
       <li>GPU
         <ul>
-          <li>NVIDIA GeForce GT1030 2GB</li>
+          <li>NVIDIA GeForce GT1030 2GB (unused)</li>
         </ul>
       </li>
       <li>Storage
@@ -97,7 +97,7 @@ Create Movies & some applications
     <summary><strong>Laptop</strong></summary>
     <ul>
       <li>Type: MSI P65-8RE-015JP</li>
-      <li>OS: Fedora Workstation 37 (Sway) / Windows 11 Pro / ArchLinux (WSL2)</li>
+      <li>OS: Fedora Workstation 37 (SwayWM/GNOME) / Windows 11 Pro / ArchLinux (WSL2)</li>
       <li>CPU: Intel Core i7-8750H 6C/12T (Boost 4.10GHz)</li>
       <li>RAM: DDR4-2666 16GB</li>
       <li>GPU: NVIDIA GeForce GTX1060 Max-Q</li>
