@@ -32,8 +32,9 @@ Create Movies & some applications
 
 ### Social
 * [Twitter](https://twitter.com/Nanamii_i)
-* [Gmail](mailto:misly.lx00@gmail.com)
+* [Zenn](https://zenn.dev/nanamiiiii)
 * [Tumblr](https://nanami-ii.tumblr.com)
+* Mail: nanami[at]myuu.dev
 
 ---
 
