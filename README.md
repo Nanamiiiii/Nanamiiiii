@@ -19,13 +19,13 @@ Create Movies & some applications
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanamiiiii&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanamiiiii&theme=nord_bright)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanamiiiii&theme=tokyonight)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nanamiiiii&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanamiiiii&theme=nord_bright)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nanamiiiii&theme=nord_bright)
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanamiiiii&theme=tokyonight)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nanamiiiii&theme=tokyonight&utcOffset=9)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanamiiiii&theme=nord_bright)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nanamiiiii&theme=nord_bright&utcOffset=9)
   
 </div>
 
