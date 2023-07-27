@@ -98,30 +98,6 @@ Create Movies & some applications
   </details>
   
   <details>
-    <summary><strong>Laptop</strong></summary>
-    <ul>
-      <li>Type: MSI P65-8RE-015JP</li>
-      <li>OS: Fedora Workstation 37 (SwayWM/GNOME) / Windows 11 Pro / ArchLinux (WSL2)</li>
-      <li>CPU: Intel Core i7-8750H 6C/12T (Boost 4.10GHz)</li>
-      <li>RAM: DDR4-2666 16GB</li>
-      <li>GPU: NVIDIA GeForce GTX1060 Max-Q</li>
-      <li>SSD: WesternDigital SN500 500GB</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary><strong>For Work (loaned)</strong></summary>
-    <ul>
-      <li>Type: MacBook Pro (2019)</li>
-      <li>OS: macOS Monterey</li>
-      <li>CPU: Intel Core i7-9750H 6C/12T (Boost 4.50GHz)</li>
-      <li>RAM: DDR4-2666 16GB</li>
-      <li>GPU: AMD Radeon Pro 5300M</li>
-      <li>SSD: 512GB</li>
-    </ul>
-  </details>
-  
-  <details>
     <summary><strong>Home Kubernetes Cluster</strong></summary>
     <ul>
       <li>
@@ -134,7 +110,7 @@ Create Movies & some applications
         </ul>
        </li>
        <li>
-        <strong>Worker (2 Nodes on KVM)</strong>
+        <strong>Worker</strong>
         <ul>
           <li>Type: CHUWI CoreBox</li>
           <li>OS: RedHat Enterprise Linux 9.0 (x86_64)</li>
@@ -145,11 +121,6 @@ Create Movies & some applications
             <ul>
               <li>NVMe 512GB</li>
               <li>Samsung SSD 860 EVO 500GB (SATA600)</li>
-            </ul>
-          </li>
-          <li>KVM Instance
-            <ul>
-              <li>OS: Ubuntu Server 22.04</li>
             </ul>
           </li>
         </ul>
