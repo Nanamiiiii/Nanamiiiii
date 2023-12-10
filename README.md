@@ -1,10 +1,10 @@
 # Nanamiiiii
-Create Movies & some applications
 
 <div align="center">
   
   [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-1e90ff?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/windows)
+  [![OS:macOS](https://img.shields.io/badge/OS-macOS-dde2eb?style=flat-square&logo=apple)]()
 
   [![Editor:Neovim](https://img.shields.io/badge/Editor-Neovim-089642?style=flat-square&logo=neovim)](https://github.com/neovim/neovim)
   [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
@@ -13,19 +13,18 @@ Create Movies & some applications
   [![Lang:C](https://img.shields.io/badge/Lang-C-9db7c4?style=flat-square&logo=c)]()
   [![Lang:Rust](https://img.shields.io/badge/Lang-Rust-cd853f?style=flat-square&logo=rust)]()
   [![Lang:Go](https://img.shields.io/badge/Lang-Go-blue?style=flat-square&logo=go)]()
-  [![Lang:Ruby](https://img.shields.io/badge/Lang-Ruby-red?style=flat-square&logo=ruby)]()
   
 </div>
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanamiiiii&theme=nord_bright)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanamiiiii&theme=react)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanamiiiii&theme=nord_bright)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nanamiiiii&theme=nord_bright)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanamiiiii&theme=react)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nanamiiiii&theme=react)
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanamiiiii&theme=nord_bright)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nanamiiiii&theme=nord_bright&utcOffset=9)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanamiiiii&theme=react)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nanamiiiii&theme=react&utcOffset=9)
   
 </div>
 
