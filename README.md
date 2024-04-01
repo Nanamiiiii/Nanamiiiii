@@ -1,6 +1,6 @@
 # Nanamiiiii
 
-<div align="center">
+<div>
   
   [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-1e90ff?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/windows)
@@ -13,18 +13,6 @@
   [![Lang:C](https://img.shields.io/badge/Lang-C-9db7c4?style=flat-square&logo=c)]()
   [![Lang:Rust](https://img.shields.io/badge/Lang-Rust-cd853f?style=flat-square&logo=rust)]()
   [![Lang:Go](https://img.shields.io/badge/Lang-Go-blue?style=flat-square&logo=go)]()
-  
-</div>
-
-<div align="center">
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanamiiiii&theme=react)
-
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nanamiiiii&theme=react)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nanamiiiii&theme=react)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanamiiiii&theme=react)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nanamiiiii&theme=react&utcOffset=9)
   
 </div>
 
