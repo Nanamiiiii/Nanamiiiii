@@ -1,21 +1,5 @@
 # Nanamiiiii
 
-<div>
-  
-  [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-1e90ff?style=flat-square&logo=windows)](https://www.microsoft.com/ja-jp/windows)
-  [![OS:macOS](https://img.shields.io/badge/OS-macOS-dde2eb?style=flat-square&logo=apple)]()
-
-  [![Editor:Neovim](https://img.shields.io/badge/Editor-Neovim-089642?style=flat-square&logo=neovim)](https://github.com/neovim/neovim)
-  [![Editor:VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
-  [![IDE:VisualStudio](https://img.shields.io/badge/IDE-VisualStudio2022-blue?style=flat-square&logo=visualstudio)](https://visualstudio.microsoft.com/)
- 
-  [![Lang:C](https://img.shields.io/badge/Lang-C-9db7c4?style=flat-square&logo=c)]()
-  [![Lang:Rust](https://img.shields.io/badge/Lang-Rust-cd853f?style=flat-square&logo=rust)]()
-  [![Lang:Go](https://img.shields.io/badge/Lang-Go-blue?style=flat-square&logo=go)]()
-  
-</div>
-
 ---
 
 ### Social
